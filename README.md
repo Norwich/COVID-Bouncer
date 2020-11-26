@@ -1,6 +1,16 @@
-# Detecting Mask Wearing with the Digital COVID-Bouncer
+# Detecting Mask Wearing with the Deep Learning COVID-Bouncer
 
 ### Introduction:
+
+Mask wearing is a simple and powerful way to combat COVID, but it is only effective when practiced at scale within populations. Unfortunatley mask wearing has become politicized, and businesses are often in the position of policing and enforcing mask wearing. 
+
+Enter the COVID Bouncer - an application which can be used to detect mask wearing without needing to put a real person at risk of exposure. When paired with a door lock, the COVID Bouncer can detect the presence of face masks before allowing entry into a business.
+
+The Bouncer is able to identify people not wearing masks as well as those wearing masks:
+<img src="https://github.com/eric-pierce/COVID-Bouncer/blob/main/images/shot3.png" alt="Example 3" width="288" height="623" /> <img src="https://github.com/eric-pierce/COVID-Bouncer/blob/main/images/shot5.png" alt="Example 2" width="288" height="623" />
+
+It also functions with images that include multiple subjects as can be seen in the examples below:
+<img src="https://github.com/eric-pierce/COVID-Bouncer/blob/main/images/shot1.png" alt="Example 1" width="288" height="623" /> <img src="https://github.com/eric-pierce/COVID-Bouncer/blob/main/images/shot4.png" alt="Example 4" width="288" height="623" />
 
 ### Data Acquisition:
 The data for this project came from two sources - one dataset compiled on [kaggle](https://www.kaggle.com/andrewmvd/face-mask-detection) and one compiled by the [Roboflow](https://public.roboflow.com/object-detection/mask-wearing). Both of these datasets 
