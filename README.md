@@ -21,13 +21,13 @@ I evaluated two training methods as part of this model development. Both models 
 <img src="https://github.com/eric-pierce/COVID-Bouncer/blob/main/images/fullnetwork_architecture.png" alt="Full Network Architecture" width="387" height="294" />
 
 The Full Network training results are below, and resulted in a loss of 1.355
-![Full Network Training](/images/fullnetwork_training.png)
+<img src="https://github.com/eric-pierce/COVID-Bouncer/blob/main/images/fullnetwork_training_graph.png" alt="Full Network Training" width="813" height="297" />
 
 Second I trained a Transfer Network based on Apple's "Object Vision Feature Print":
 <img src="https://github.com/eric-pierce/COVID-Bouncer/blob/main/images/transfernetwork_architecture.png" alt="Transfer Network Architecture" width="387" height="294" />
 
 The Full Network training results are below, and resulted in a loss of 0.31
-![Full Network Training](/images/transfernetwork_training.png)
+<img src="https://github.com/eric-pierce/COVID-Bouncer/blob/main/images/transfernetwork_training_graph.png" alt="Transfer Network Training" width="813" height="297" />
 
 ### Deployment:
 I used my personal iPhone as my Edge Device. Modern iPhones include a specialized chip for Neural Network processing. I built my iPhone app using a framework available on [GitHub here](https://github.com/tombaranowicz/ObjectDetectionWithCreateML). This framework was an excellent starting point, but I modified the application code to:
