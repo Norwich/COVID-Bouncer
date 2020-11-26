@@ -1,4 +1,4 @@
-# COVID-Bouncer
+# Detecting Mask Wearing with the Digital COVID-Bouncer
 
 ### Introduction:
 
