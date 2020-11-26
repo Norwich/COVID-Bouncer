@@ -41,7 +41,7 @@ Second I trained a Transfer Network based on Apple's "Object Vision Feature Prin
 
 <img src="https://github.com/eric-pierce/COVID-Bouncer/blob/main/images/transfernetwork_architecture.png" alt="Transfer Network Architecture" width="387" height="294" />
 
-The Full Network training results are below, and resulted in a loss of 0.31
+The Transfer Network training results are below, and resulted in a loss of 0.31
 
 <img src="https://github.com/eric-pierce/COVID-Bouncer/blob/main/images/transfernetwork_training_graph.png" alt="Transfer Network Training" width="813" height="297" />
 
