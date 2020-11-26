@@ -18,15 +18,19 @@ I used a 70/20/10 split for train/test/validation for this dataset. The final da
 
 ### Model Architecture:
 I evaluated two training methods as part of this model development. Both models were trained for 18,000 iterations, which took ~14 hours per model. First I trained a Full Network (non-Transfer Learning) with an architecture based on YOLOv2:
+
 <img src="https://github.com/eric-pierce/COVID-Bouncer/blob/main/images/fullnetwork_architecture.png" alt="Full Network Architecture" width="387" height="294" />
 
 The Full Network training results are below, and resulted in a loss of 1.355
+
 <img src="https://github.com/eric-pierce/COVID-Bouncer/blob/main/images/fullnetwork_training_graph.png" alt="Full Network Training" width="813" height="297" />
 
 Second I trained a Transfer Network based on Apple's "Object Vision Feature Print":
+
 <img src="https://github.com/eric-pierce/COVID-Bouncer/blob/main/images/transfernetwork_architecture.png" alt="Transfer Network Architecture" width="387" height="294" />
 
 The Full Network training results are below, and resulted in a loss of 0.31
+
 <img src="https://github.com/eric-pierce/COVID-Bouncer/blob/main/images/transfernetwork_training_graph.png" alt="Transfer Network Training" width="813" height="297" />
 
 ### Deployment:
