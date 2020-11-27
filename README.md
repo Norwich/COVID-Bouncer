@@ -1,6 +1,6 @@
 # Detecting Mask Wearing with the Deep Learning COVID-Bouncer
 
-## Table of Contents
+### Table of Contents
 * [Overview](#Overview)
 * [How to use this Repository](#How-to-use-this-Repository)
 * [Tools Used](#Tools-Used)
@@ -10,8 +10,6 @@
 * [Deployment](#Deployment)
 * [Roadblocks](#Roadblocks)
 * [Next Steps](#Next-Steps)
-
-***
 
 ### Overview
 Mask wearing is a simple and powerful way to combat COVID, but it is most effective when practiced at scale within populations. Unfortunately mask wearing has become politicized in the United States, and businesses are often in the position of policing and enforcing mask wearing themselves
