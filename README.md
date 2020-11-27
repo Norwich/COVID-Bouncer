@@ -1,6 +1,5 @@
 # Detecting Mask Wearing with the Deep Learning COVID-Bouncer
 
-***
 ## Table of Contents
 * [Overview](#Overview)
 * [How to use this Repository](#How-to-use-this-Repository)
@@ -15,7 +14,7 @@
 ***
 
 ### Overview
-Mask wearing is a simple and powerful way to combat COVID, but it is only effective when practiced at scale within populations. Unfortunately mask wearing has become politicized, and businesses are often in the position of policing and enforcing mask wearing. 
+Mask wearing is a simple and powerful way to combat COVID, but it is most effective when practiced at scale within populations. Unfortunately mask wearing has become politicized in the United States, and businesses are often in the position of policing and enforcing mask wearing themselves
 
 Enter the COVID Bouncer - an application which can be used to detect mask wearing without needing to put a real person at risk of exposure. When paired with a door lock, the COVID Bouncer can detect the presence of face masks before allowing entry into a business.
 
