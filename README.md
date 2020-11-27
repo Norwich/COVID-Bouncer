@@ -1,18 +1,7 @@
 # Detecting Mask Wearing with the Deep Learning COVID-Bouncer
 
-### Table of Contents
-* [Overview](#Overview)
-* [How to use this Repository](#How-to-use-this-Repository)
-* [Tools Used](#Tools-Used)
-* [Data Acquisition](#Data-Acquisition)
-* [Data Preparation](#Data-Preparation)
-* [Model Architecture](#Model-Architecture)
-* [Deployment](#Deployment)
-* [Roadblocks](#Roadblocks)
-* [Next Steps](#Next-Steps)
-
 ### Overview
-Mask wearing is a simple and powerful way to combat COVID, but it is most effective when practiced at scale within populations. Unfortunately mask wearing has become politicized in the United States, and businesses are often in the position of policing and enforcing mask wearing themselves
+Mask wearing is a simple and powerful way to combat COVID, but it is most effective when practiced at scale within populations. Unfortunately mask wearing has become politicized in the United States, and businesses are often in the position of policing and enforcing mask wearing themselves.
 
 Enter the COVID Bouncer - an application which can be used to detect mask wearing without needing to put a real person at risk of exposure. When paired with a door lock, the COVID Bouncer can detect the presence of face masks before allowing entry into a business.
 
@@ -23,6 +12,17 @@ The Bouncer is able to identify people not wearing masks as well as those wearin
 It also functions with images that include multiple subjects as can be seen in the examples below:
 
 <img src="https://github.com/eric-pierce/COVID-Bouncer/blob/main/images/shot1.png" alt="Example 1" width="288" height="623" /> <img src="https://github.com/eric-pierce/COVID-Bouncer/blob/main/images/shot4.png" alt="Example 4" width="288" height="623" />
+
+### Table of Contents
+* [Overview](#Overview)
+* [How to use this Repository](#How-to-use-this-Repository)
+* [Tools Used](#Tools-Used)
+* [Data Acquisition](#Data-Acquisition)
+* [Data Preparation](#Data-Preparation)
+* [Model Architecture](#Model-Architecture)
+* [Deployment](#Deployment)
+* [Roadblocks](#Roadblocks)
+* [Next Steps](#Next-Steps)
 
 ### How to use this Repository
 1. Clone this repository
