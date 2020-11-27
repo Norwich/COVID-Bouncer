@@ -13,17 +13,6 @@ It also functions with images that include multiple subjects as can be seen in t
 
 <img src="https://github.com/eric-pierce/COVID-Bouncer/blob/main/images/shot1.png" alt="Example 1" width="288" height="623" /> <img src="https://github.com/eric-pierce/COVID-Bouncer/blob/main/images/shot4.png" alt="Example 4" width="288" height="623" />
 
-### Table of Contents
-* [Overview](#Overview)
-* [How to use this Repository](#How-to-use-this-Repository)
-* [Tools Used](#Tools-Used)
-* [Data Acquisition](#Data-Acquisition)
-* [Data Preparation](#Data-Preparation)
-* [Model Architecture](#Model-Architecture)
-* [Deployment](#Deployment)
-* [Roadblocks](#Roadblocks)
-* [Next Steps](#Next-Steps)
-
 ### How to use this Repository
 1. Clone this repository
 2. Download and install the latest version of [XCode](https://developer.apple.com/xcode/) (requires Apple Computer)
